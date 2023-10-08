@@ -1,20 +1,19 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Cloaked Security: Protecting Your Applications"
+subtitle: "Securing Your Code Against Vulnerabilities"
+image: /img/security-banner.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Cloaked Security?
+    text: "Cloaked Security is your trusted resource for understanding and mitigating application security risks. We believe that secure applications are essential, and our mission is to help you protect your code and data from threats."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    heading: "What We Offer"
+    text: "At Cloaked Security, we provide valuable insights into application security, vulnerability assessment, and secure coding practices. Whether you're a developer, a security professional, or a business owner, we're here to empower you with the knowledge and tools to safeguard your applications."
+articles:
+    - image: /img/secure-coding.jpg
+      text: "Explore our in-depth articles and guides on secure coding practices, common vulnerabilities, and best practices for application security. Learn how to write code that is resilient to attacks and vulnerabilities."
+    - image: /img/pen-testing.jpg
+      text: "Discover the latest trends in penetration testing, threat modeling, and vulnerability assessment. Stay informed about emerging threats and how to proactively defend your applications."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Our Commitment
+    text: "In the ever-evolving landscape of cybersecurity, we are dedicated to promoting ethical and responsible practices. We believe that security should be accessible to all, and our goal is to foster a community that shares knowledge and works together to build a more secure digital world."
 ---
-
