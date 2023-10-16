@@ -5,6 +5,7 @@ description: Managing dependencies is an essential aspect of software
   development. When your project relies on external libraries, modules, or
   components, ensuring their seamless integration is crucial. This is where Git
   submodules come to the rescue.
+image: img/workfeatured-github-2.png
 ---
 
 
