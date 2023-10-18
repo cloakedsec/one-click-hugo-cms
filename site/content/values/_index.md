@@ -1,40 +1,39 @@
 ---
-title: Values
+title: Security in the Digital Age
 image: img/cybersecurity_lock_with_abstract_circuits_of_security_fabric_by_phive2015_gettyimages-614137876_2400x1600-100842365-large.jpg
-values:
-  - heading: Shade-grown coffee
+security_layers:
+  - heading: Physical Layer Security
     text: >
-      Coffee is a small tree or shrub that grows in the forest understory in its
-      wild form, and traditionally was grown commercially under other trees that
-      provided shade. The forest-like structure of shade coffee farms provides
-      habitat for a great number of migratory and resident species.
-    imageUrl: /img/about-shade-grown.jpg
-  - heading: Single origin
+      Physical layer security is the first line of defense, just like the outer walls of a fortress. It involves the protection of the actual hardware and infrastructure, ensuring that only authorized individuals have physical access to critical systems.
+    imageUrl: /img/physical-layer-security.jpg
+  - heading: Data Link Layer Security
     text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
-    imageUrl: /img/about-single-origin.jpg
-  - heading: Sustainable farming
+      The Data Link Layer secures the communication between devices on the same network. It's like ensuring that messages between two allies are encrypted and can't be intercepted by adversaries.
+    imageUrl: /img/data-link-layer-security.jpg
+  - heading: Network Layer Security
     text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
-    imageUrl: /img/about-sustainable-farming.jpg
-  - heading: Direct sourcing
+      Network Layer security is akin to ensuring that secret messages are transported safely from one fortress to another through secure tunnels and checkpoints. It involves techniques like VPNs and firewalls.
+    imageUrl: /img/network-layer-security.jpg
+  - heading: Transport Layer Security
     text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-direct-sourcing.jpg
-  - heading: Reinvest profits
+      The Transport Layer ensures end-to-end communication security. It's like making sure that messengers carrying vital information are trustworthy and that messages are encrypted during transit.
+    imageUrl: /img/transport-layer-security.jpg
+  - heading: Session Layer Security
     text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-reinvest-profits.jpg
+      The Session Layer is responsible for setting up, managing, and terminating sessions between applications. It's like making sure that meetings between allies are secure and that no unauthorized individuals can eavesdrop.
+    imageUrl: /img/session-layer-security.jpg
+  - heading: Presentation Layer Security
+    text: >
+      The Presentation Layer transforms data into a format that the application layer can understand. It's like translating messages into a common language to prevent misinterpretation and tampering.
+    imageUrl: /img/presentation-layer-security.jpg
+  - heading: Application Layer Security
+    text: >
+      The Application Layer is the fortress's heart, where valuable information is processed and stored. It's like guarding the treasure chamber, ensuring that only authorized personnel have access.
+    imageUrl: /img/application-layer-security.jpg
 ---
+
+In today's digital age, the concept of security closely resembles the layers of the OSI model, protecting valuable assets at every level. From the physical fortifications to the encryption of messages and the secure management of resources, the seven layers of security work together to safeguard our digital world.
+
+Just as a fortress relies on multiple layers of defense, our digital systems depend on these security layers to ensure the confidentiality, integrity, and availability of critical information. Understanding and implementing security measures at each layer is essential to protect against the ever-evolving threats in the cyber landscape.
+
+Explore these layers to fortify your understanding of digital security and safeguard your digital assets.
