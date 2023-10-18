@@ -1,8 +1,8 @@
 ---
 title: Use Burp & FoxyProxy to Easily Switch Between Proxy Settings
-date: 2017-01-04T15:04:10.000Z
+date: 2023-10-18T07:02:16.564Z
 description: Use Burp & FoxyProxy to Easily Switch Between Proxy Settings
-image: /img/blog-chemex.jpg
+image: img/cybersecurity_lock_with_abstract_circuits_of_security_fabric_by_phive2015_gettyimages-614137876_2400x1600-100842365-large.jpg
 ---
 ## Introduction:
 
