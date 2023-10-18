@@ -1,6 +1,6 @@
 ---
 title: " Demystifying GitHub Submodules: A Guide to Managing Dependencies"
-date: 2017-01-04T15:04:10.000Z
+date: 2023-10-18T07:19:45.317Z
 description: Managing dependencies is an essential aspect of software
   development. When your project relies on external libraries, modules, or
   components, ensuring their seamless integration is crucial. This is where Git
