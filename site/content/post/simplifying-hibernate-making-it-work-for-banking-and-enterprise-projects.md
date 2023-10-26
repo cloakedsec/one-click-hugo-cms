@@ -8,6 +8,7 @@ description: Banking and enterprise projects are known for their complexity.
   databases, making it an ideal choice for large-scale projects. In this blog
   post, we will explore a user-friendly approach to implementing Hibernate and
   understand how it is used in major banking and enterprise applications.
+image: img/spring-hibernate.jpg
 ---
 ## Getting to Know Hibernate's Role
 
